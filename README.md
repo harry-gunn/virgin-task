@@ -20,3 +20,4 @@ I've had to run the tests with the following command, due to the Windows dev env
     - E2E testing
 - Error handling
 - Pull I/O out into a repository
+- Fix anonymous credentials to clear up job output
